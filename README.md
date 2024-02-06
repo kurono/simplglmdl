@@ -10,4 +10,4 @@ The camera's point of view can be adjusted either through touch events or by usi
 
 Please note that the project utilizes an older method for declaring and loading JavaScript classes.
 
-![Demo](./4readme/assets/glflower.gif?raw=true "Demo")
+![Demo](./4readme/assets/glflower.gif)
