@@ -1,0 +1,11 @@
+body
+{
+  font-size:40pt;
+  /*margin: 0px;
+  background-color: #000000;
+  overflow: hidden;*/
+}
+#glcanvas
+{
+	touch-action: none; /* Disable touch behaviors, like pan and zoom */
+}
